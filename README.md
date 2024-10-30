@@ -4,19 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title⭐:>My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Portfolio</h1>
+        <h1⭐:>Welcome to My Portfolio</h1>
         <p>Hi, I'm ADITYA SINGH, a student of btech CSE in lovely professional university.</p>
     </header>
     <section>
-        <h2> About Me</h2>
-        <p1>My name is Aditya Singh. I am from gorakhpur Uttar Pradesh. I completed my junior education from LITTLE FLOWER SCHOOL GORAKHPUR and higher education from ST JOSEPH'S SCHOOL GORAKHPUR.
+        <h2::> About Me</h2>
+        <p1👋:> Hii there!I'm Aditya Singh. I am from gorakhpur Uttar Pradesh. I completed my junior education from LITTLE FLOWER SCHOOL GORAKHPUR and higher education from ST JOSEPH'S SCHOOL GORAKHPUR.
             Currently, I am pursuing my graduation from lovely professional university. I have a strong interest in technology and coding, and I'm always eager to learn and explore new ideas.</p>
-        <h3><B><p2>Education:</p2></B></h3>
+        <h3><B><p2::>Education:</p2></B></h3>
         <p3>Degree: B.Tech in Computer Science Engineering.</p3>
         <p4><br><b>University: Lovely Professional University(LPU).</b></p4>
         <h4><b>SKILLS AND INTEREST.</b></h4>
@@ -28,7 +28,7 @@
         <p10><br>Working on personal projects to improve my SKILLS.</p10>
     </section>
     <section>
-        <h2><b>Socials:</b></h2>
+        <h2><b🌏:>Socials:</b></h2>
         <ul>
             <li><a href="https://github.com/adi3520/Aditya-Singh-.git">github</a>
                <li> <a href="https://www.linkedin.com/in/aditya-singh-a86235326/">linkedin</a></li>
@@ -43,17 +43,6 @@
             </ul>
             <h3><b>Tech Stack:</b></h3>
             <ul>
-                
-                    <li><a href="http://127.0.0.1:5500/furniture.html">HTML</a></li>
-                    <li><a href="http://127.0.0.1:5500/grid2.html">html.css</a></li>
-                    <li><a href="PS C:\Users\adity\Desktop\python> & C:/Users/adity/AppData/Local/Programs/Python/Python312/python.exe c:/Users/adity/Desktop/python/dict.py">PYTHON</a></li>
-                
-            </ul>
-    </section>
-    <section>
-        contact=<a href="adityasingh28055@gmail.com">Mail id</a>
-       
-    </section>
 </body>
 </html>
 
