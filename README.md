@@ -22,7 +22,7 @@
         <h4><b>SKILLS AND INTEREST.</b></h4>
         <p5><b>Programming Languages:</b> Java, Python, C++.</p5>
         <p6><br><b>Web Development:</b> HTML, CSS, Javascript.</p6>
-        <p7><br><b>Technolies:</b> React, Node.js, Git.</p7>
+        <p7><br><b>Technologies:</b> React, Node.js, Git.</p7>
         <p8><br><b>Interest:</b> Artificial Intelligence, Machine Learning, Open Sources Projects.</p8>
         <p9><br><b>Currently Learning:</b>Deepening my knowledge of Data structures and algorithms</p9>
         <p10><br>Working on personal projects to improve my SKILLS.</p10>
