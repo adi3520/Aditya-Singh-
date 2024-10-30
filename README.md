@@ -31,25 +31,31 @@
         <h2><b>Socials:</b></h2>
         <ul>
             <li><a href="https://github.com/adi3520/Aditya-Singh-.git">github</a>
-                <a href="www.linkedin.com/in/aditya-singh-a86235326">linkedin</a>
-                <a href="https://x.com/AdityaS15160584">X</a>
-                <a href="https://www.geeksforgeeks.org/user/adityasins9ns/">geeksforgeeks</a>
+               <li> <a href="https://www.linkedin.com/in/aditya-singh-a86235326/">linkedin</a></li>
+                <li><a href="https://x.com/AdityaS15160584">X</a></li>
+                <li><a href="https://www.geeksforgeeks.org/user/adityasins9ns/">geeksforgeeks</a></li>
+                <li><a href="https://www.figma.com/files/team/1408360122898891292/recents-and-sharing/recently-viewed?fuid=1408360120901757194">Figma</a></li>
+                <li><a href="https://www.hackerrank.com/profile/adityasingh28055">hackerrank</a></li>
+                <li><a href="https://www.quora.com/profile/Aditya-Singh-22090">quora</a></li>
+                <li><a href="https://www.hackerearth.com/@adityasingh28055/">hackerearth</a></li>
+                <li><a href="https://stackoverflow.com/users/26949726/aditya-singh">stackoverflow</a></li>
                 </li>
             </ul>
             <h3><b>Tech Stack:</b></h3>
             <ul>
-                <li>
-                    <a href="http://127.0.0.1:5500/furniture.html">HTML</a>
-                    <a href="c:\Users\adity\Desktop\css html\grid2.html">CSS</a>
-                    <a href="c:\Users\adity\Desktop\python\dict.py">Python</a>
-                </li>
+                
+                    <li><a href="http://127.0.0.1:5500/furniture.html">HTML</a></li>
+                    <li><a href="http://127.0.0.1:5500/grid2.html">html.css</a></li>
+                    <li><a href="PS C:\Users\adity\Desktop\python> & C:/Users/adity/AppData/Local/Programs/Python/Python312/python.exe c:/Users/adity/Desktop/python/dict.py">PYTHON</a></li>
+                
             </ul>
     </section>
     <section>
-        <h><b>Achivement:</b></h>
-        <br>
-        <p>Just completed a MOOC on interview skills!Excited to put these techniques to use in my upcoming interviews.</p>
-        <img src="WhatsApp Image 2024-10-30 at 7.50.30 PM.jpeg" width="200">
+        contact=<a href="adityasingh28055@gmail.com">Mail id</a>
+       
     </section>
 </body>
 </html>
+
+
+      
