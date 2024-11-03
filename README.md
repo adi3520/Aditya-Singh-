@@ -13,7 +13,7 @@
     </header>
     <section>
         <h2> <b>About Me</h2></b>
-        <p1👋:><br> Hii there!I'm Aditya Singh. I am from gorakhpur Uttar Pradesh. I completed my junior education from LITTLE FLOWER SCHOOL GORAKHPUR and higher education from ST JOSEPH'S SCHOOL GORAKHPUR.
+        <p1><br> Hii there!I'm Aditya Singh. I am from gorakhpur Uttar Pradesh. I completed my junior education from LITTLE FLOWER SCHOOL GORAKHPUR and higher education from ST JOSEPH'S SCHOOL GORAKHPUR.
             Currently, I am pursuing my graduation from lovely professional university. I have a strong interest in technology and coding, and I'm always eager to learn and explore new ideas.</p>
         <h3><B><p2::>Education:</p2></B></h3>
         <p3>Degree: B.Tech in Computer Science Engineering.</p3>
@@ -27,7 +27,7 @@
         <p10><br>Working on personal projects to improve my SKILLS.</p10>
     </section>
     <section>
-        <h2><b🌏:>Socials:</b></h2>
+        <h2><b>Socials:</b></h2>
         <ul>
             <li><a href="https://github.com/adi3520/Aditya-Singh-.git">github</a>
                <li> <a href="https://www.linkedin.com/in/aditya-singh-a86235326/">linkedin</a></li>
