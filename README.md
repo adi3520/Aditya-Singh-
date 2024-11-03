@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1⭐:>Welcome to My Portfolio</h1>
+        <h1><br><b>Welcome to My Portfolio</h1></b>
         <p>Hi, I'm ADITYA SINGH, a student of btech CSE in lovely professional university.</p>
     </header>
     <section>
