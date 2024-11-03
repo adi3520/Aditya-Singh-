@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title⭐:>My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,7 +12,7 @@
         <p>Hi, I'm ADITYA SINGH, a student of btech CSE in lovely professional university.</p>
     </header>
     <section>
-        <h2::> About Me</h2>
+        <h2> <b>About Me</h2></b>
         <p1👋:><br> Hii there!I'm Aditya Singh. I am from gorakhpur Uttar Pradesh. I completed my junior education from LITTLE FLOWER SCHOOL GORAKHPUR and higher education from ST JOSEPH'S SCHOOL GORAKHPUR.
             Currently, I am pursuing my graduation from lovely professional university. I have a strong interest in technology and coding, and I'm always eager to learn and explore new ideas.</p>
         <h3><B><p2::>Education:</p2></B></h3>
